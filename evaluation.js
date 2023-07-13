@@ -12,7 +12,7 @@ for (let i = 0; i<= 15; i++) {
 	document.getElementById("rdo" + ii).checked = true; 
 	ii += 5;
 } 
-for (i = 0; i <=1; i++) {
+for (i = 1; i <= 2; i++) {
 	document.getElementById("txt" + txt).value = "-"; 
 	txt += 1;
 }
