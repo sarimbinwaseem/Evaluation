@@ -16,3 +16,7 @@ for (i = 1; i <= 2; i++) {
 	document.getElementById("txt" + txt).value = "-"; 
 	txt += 1;
 }
+
+// Submit
+submit = document.getElementById("btnSubmit")
+submit.click();
