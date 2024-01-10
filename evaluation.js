@@ -6,7 +6,7 @@
 
 
 ii = 1053; 
-txt = 296; 
+txt = 210;
 for (let i = 0; i<= 15; i++) {
 	console.log(ii); 
 	document.getElementById("rdo" + ii).checked = true; 
